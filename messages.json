@@ -1,26 +1,5 @@
 {
     "package":"com.yablio.yabapp",
     "signature":"BR8cB5SqbqKUR0ZjslkA+WRfGxA=",
-    "messages":[
-        {
-            "id":"201903071839",
-            "version":"3",
-            "activity":"all",
-            "title":"test",
-            "message":"test",
-            "action":"continue",
-            "param":"",
-            "hash":"8711446912a792d87e0b17f18bfe6efa19315817"
-        },
-        {
-            "id":"201903080115",
-            "version":"3",
-            "activity":"LibraryActivity",
-            "title":"test",
-            "message":"test",
-            "action":"continue",
-            "param":"",
-            "hash":"8711446912a792d87e0b17f18bfe6efa19315817"
-        }
-    ]
+    "messages":[]
 }
